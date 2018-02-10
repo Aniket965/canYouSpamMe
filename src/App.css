@@ -72,14 +72,14 @@ h1 {
 .spam h1 {
   color: tomato;
   display: block;
-  font-size: 6rem;
+  font-size: 5rem;
   z-index: 99;
   animation: showResult 2s forwards;
 }
 .notspam h1 {
 
   color: green;
-  font-size: 6rem;
+  font-size: 5rem;
   z-index: 99;
   animation: showResult 2s forwards;
 }
